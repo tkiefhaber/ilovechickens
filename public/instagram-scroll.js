@@ -12,7 +12,7 @@
 ***********/
 
 // Tag to display
-var tag_name = 'mayonnaise';
+var tag_name = 'chickens';
 // Your client id (given by instagram api)
 var client_id = '11856320.913b062.5a7dbf03407e4c77a8f77a4cf69e012e';
 var thumb_dimension = 300;
